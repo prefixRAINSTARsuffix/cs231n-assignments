@@ -14,4 +14,5 @@
 * CNN 的 batchnorm 为什么对除了通道的维度全体标准化
 * group normalization 的反向传播怎么算的，完全不会
 
-## Assignment 3 （施工中）
+## Assignment 3
+* 已在 Google Colab 里完成，懒得下载下来了 TuT
