@@ -1,8 +1,5 @@
 # cs231n-assignments
 
-蒟蒻刚开始入门CV
-矩阵求偏导真是脑阔痛
-
 ## 关于作业的几个问题
 ## Assignment 1
 * 为什么这里面的 softmax loss 没有对 score 减最大值
